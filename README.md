@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aestina Katwal!</h1>
 <h3 align="center">A software developer from Nepal</h3>
 
-![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+<center>![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)</center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aestinak&label=Profile%20views&color=0e75b6&style=flat" alt="aestinak" /> </p>
 
