@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">Iam an alien from the sunny side of coding! ☀️<br><br>- 🔭 Software Developer crafting cool user experiences and zapping bugs!<br>- 📚 Currently diving into .net core<br>- ⚡ When I'm not coding, you’ll find me watching dramas</p>
+<p align="left">Iam an alien from the sunny side of coding! ☀️<br><br>- 🔭 Software Developer crafting cool user experiences and zapping bugs!<br>- 📚 Currently diving into .net core<br>- ⚡ When I’m not coding, I’m debugging my life through dramatic plot twists!</p>
 
 ###
 
